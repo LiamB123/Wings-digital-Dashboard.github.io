@@ -1,0 +1,217 @@
+[{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Wishbone",
+		"cost": 1,
+		"location": "Town"
+	},
+	{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Wishbone",
+		"cost": 1,
+		"location": "Town"
+	},
+	{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Wishbone",
+		"cost": 6,
+		"location": "Town"
+	},
+	{
+		"flavour": 8,
+		"experience":2,
+		"store": "Wishbone",
+		"cost": 1,
+		"location": "Town"
+	},
+	{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Wishbone",
+		"cost": 1,
+		"location": "Town"
+	},
+	{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Wishbone",
+		"cost": 1,
+		"location": "Town"
+	},
+
+	{
+		"flavour": 9,
+		"experience": 3,
+		"store": "Elephant&Castle",
+		"cost": 2,
+		"location": "Town"
+	},
+	{
+		"flavour": 9,
+		"experience": 3,
+		"store": "Elephant&Castle",
+		"cost": 2,
+		"location": "Town"
+	},
+	{
+		"flavour": 9,
+		"experience": 3,
+		"store": "Elephant&Castle",
+		"cost": 2,
+		"location": "Town"
+	},
+	{
+		"flavour": 9,
+		"experience": 3,
+		"store": "Elephant&Castle",
+		"cost": 2,
+		"location": "Town"
+	},
+	{
+		"flavour": 9,
+		"experience": 3,
+		"store": "Elephant&Castle",
+		"cost": 2,
+		"location": "Town"
+	},
+	{
+		"flavour": 9,
+		"experience": 3,
+		"store": "Elephant&Castle",
+		"cost": 2,
+		"location": "Town"
+	},
+
+	{
+		"flavour": 7,
+		"experience":3,
+		"store": "Tribecca",
+		"cost": 3,
+		"location": "County"
+	},
+	{
+		"flavour": 7,
+		"experience": 3,
+		"store": "Tribecca",
+		"cost": 3,
+		"location": "County"
+	},
+	{
+		"flavour": 7,
+		"experience": 3,
+		"store": "Tribecca",
+		"cost": 3,
+		"location": "County"
+	},
+	{
+		"flavour": 7,
+		"experience": 3,
+		"store": "Tribecca",
+		"cost": 3,
+		"location": "County"
+	},
+	{
+		"flavour": 7,
+		"experience": 3,
+		"store": "Tribecca",
+		"cost": 3,
+		"location": "County"
+	},
+	{
+		"flavour": 7,
+		"experience": 3,
+		"store": "Tribecca",
+		"cost": 3,
+		"location": "County"
+	},
+
+
+	{
+		"flavour": 9,
+		"experience": 2,
+		"store": "Blue Bar",
+		"cost": 1,
+		"location": "County"
+	},
+
+	{
+		"flavour": 9,
+		"experience": 2,
+		"store": "Blue Bar",
+		"cost": 3,
+		"location": "County"
+	},
+	{
+		"flavour": 9,
+		"experience": 2,
+		"store": "Blue Bar",
+		"cost": 3,
+		"location": "County"
+	},
+	{
+		"flavour": 9,
+		"experience": 2,
+		"store": "Blue Bar",
+		"cost": 3,
+		"location": "County"
+	},
+	{
+		"flavour": 9,
+		"experience": 2,
+		"store": "Blue Bar",
+		"cost": 3,
+		"location": "County"
+	},
+	{
+		"flavour": 9,
+		"experience": 2,
+		"store": "Blue Bar",
+		"cost": 3,
+		"location": "County"
+	},
+
+	{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Mad Egg",
+		"cost": 1,
+		"location": "Town"
+	},
+	{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Mad Egg",
+		"cost": 1,
+		"location": "Town"
+	},
+	{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Mad Egg",
+		"cost": 1,
+		"location": "Town"
+	},
+	{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Mad Egg",
+		"cost": 1,
+		"location": "Town"
+	},
+	{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Mad Egg",
+		"cost": 6,
+		"location": "Town"
+	},
+	{
+		"flavour": 8,
+		"experience": 2,
+		"store": "Mad Egg",
+		"cost": 1,
+		"location": "Town"
+	}
+]
